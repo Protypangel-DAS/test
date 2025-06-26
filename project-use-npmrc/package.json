@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@alif/storybook": "^0.0.0",
+    "@alif/storybook": "^0.0.6",
     "vue": "^3.5.13"
   },
   "devDependencies": {
